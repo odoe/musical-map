@@ -1,0 +1,16 @@
+{
+  "name": "musical-geogrid",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "@arcgis/core": "^4.19.1",
+    "tone": "^14.7.77"
+  }
+}
