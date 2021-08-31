@@ -201,7 +201,6 @@ function levelsToLocation(octant, levels, x, y) {
 
 // Given octant and levels, return three locations with back-computed lat-lng.
 function levelsToTriangle(octant, levels, normalizePoles) {
-	
 	if (typeof(levels) === 'String') {
 		levels = levels.split();
 	}

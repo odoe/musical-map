@@ -10,7 +10,7 @@
     "vite": "^2.2.3"
   },
   "dependencies": {
-    "@arcgis/core": "^4.19.1",
+    "@arcgis/core": "^4.20.1",
     "tone": "^14.7.77"
   }
 }

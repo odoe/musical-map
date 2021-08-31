@@ -1,5 +1,4 @@
-'use strict';
-
+// https://gitlab.com/IvanSanchez/geogrids/-/tree/master/
 let notes = [
 	'A2',
 	'B2',
